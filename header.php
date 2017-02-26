@@ -1,5 +1,5 @@
 <header id="header">
-	<a href="index.html" class="logo"><strong>Integration Academy</strong></a>
+	<a href="index.php" class="logo"><strong>Integration Academy</strong></a>
 	<ul class="icons">
 		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
