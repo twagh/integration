@@ -1,3 +1,6 @@
+<head>
+	<meta name="keywords" content="Integration, Tutorial, Integration Tutorial, JEE, NEET, Foundation, Science, Kalyan, Khadakapda">
+</head>
 <header id="header">
 	<a href="/" class="logo"><strong>Integration Tutorial</strong></a>
 	<!-- <ul class="icons">
