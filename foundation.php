@@ -25,15 +25,23 @@
 					<section id="banner">
 						<div class="content">
 							<header>
-								<h2>Fondation Program</h2>
+								<h2>Foundation Program</h2>
 							</header>
-								<p>
-									This program enables the students to build a strong foundation in Physics, Chemistry and Mathematics. The training provided to the students aims to make starts with deriving/understanding basic concept and further orients the students to apply the acquired knowledge to solve the challenging problems. 
-								</p>
-								<p>
-									The course enables the students to excel at school level and also prepares them to qualify the various state level and national level and international exam (STSE, MTSE and Olympiads) confidently
-								</p>
+							<ul>
+								<li>The program lays emphasis towards building strong foundations for cracking The National level competitive exams like JEE (Mains + Advanced), NEET, AIIMS etc</li>
+								<li>The program aims to groom the student for prestigious Olympiads (Mathematics and Science) along with class IX and Class X school exams.</li>
+								<li>The program sharpens student’s analytical skills and retention abilities via various techniques and practice.</li>
+								<li>To prepare a student for class X exams and imbibe self-confidence for conscious decision making in career choices.</li>
+							</ul>
 
+							<header>
+								<h3>Why Join This Program?</h3>
+							</header>
+							<ul>
+								<li>There is a substantial rise in the level of difficulty of subjects (Physics, Chemistry, Biology and Mathematics) in Class XI and Class XII as compared to Class IX &amp; Class X. Preparing for entrance exams without prior exposure and without pre foundation preparation becomes an uphill task for the students, along with coping with huge syllabus in each subject. So its essential that students develop a strong foundation for JEE/ NEET etc beginning from Class IX and X itself.</li>
+								<li>The focused and expert teaching with rich study material of Science and Mathematics in Class IX &amp; X, not only gives the student the much required exposure to the world of competitive exams, also prepares the student for School exams and competitive exams like Olympiads, NTSE etc thereby boosting the students’ confidence along with knowledge.</li>
+								<li>The syllabus of Class IX &amp; X introduces concepts which student learns in detailed depths in Class XI &amp; XII. Therefore a focused and systematic foundation program starting in class IX &amp; X will ensure strong understanding of fundamentals which is a prime requirement for entrance exams.</li>
+							</ul>
 							<!-- <ul class="actions">
 								<li><a href="about.php" class="button big">Learn More</a></li>
 							</ul> -->

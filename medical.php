@@ -27,15 +27,27 @@
 							<header>
 								<h2>Medical Program</h2>
 							</header>
-							<p>
-								The main goal of this program is to develop strong foundation of concepts and fundamentals, and to sharpen analytical thinking and problem solving skills of a student, which are essential ingredient for success in competitive examination. The program sets the students on a carefully structured path.
-							</p>
-							<p>
-								This program is the best program for all medical entrance examinations because it enables student to utilize the available time effectively. This enables a relatively comfortable speed of learning and developing problem solving skills. More time means more practice, which means more knowledge and stronger foundation.
-							</p>
-							<p>
-								In addition to Entrance exams, this program also takes care of academic requirements of Board Examination.
-							</p>
+							<ul>
+								<li>The program greatly covers both Medical and Board preparation; where our faculty takes extensive care to initiate the child with basic concepts in Physics, Chemistry and Biology; and then smoothly transiting to a higher level of learning, understanding and retaining knowledge.</li>
+								<li>The program equips the student with a very solid foundation, analytical knowledge, logical analysis, problems solving skills and confidence, leaving no stone unturned for success.</li>
+								<li>Regular and surprise tests are conducted to encourage students to be prepared and dedicated towards their studies at all times. It also helps in judging the performance level of the students.</li>
+							</ul>
+							
+							<header>
+								<h3>2 year Regular Medical Program- for Class XI studying/ Class X pass students</h3>
+							</header>
+							<ul>
+								<li>The program is specifically been designed for the students who are clear with their future goals. These are the students who not only want a success in school and competitive exams but also focus to gain admission in top medical schools.</li>
+								<li>Our specially designed syllabus covers every topic of Medical entrance exams in a step by step manner with a confident backup to XI &amp; XII class exams.</li>
+							</ul>
+
+							<header>
+								<h3>1 Year Regular Medical Program for Class XII studying/ Class XI pass students</h3>
+							</header>
+							<ul>
+								<li>The program is meant for the students who have cleared Class XI exams and entered XII-Class; and aspires to clear Engineering Competitive exams like JEE.The program is specifically been designed for the XI pass students who have a goal to clear Medical Competitive exams like NEET/ AIIMS etc.</li>
+								<li>Apart from covering the entire NEET syllabus of Class XII, important topics relevant to the preparation and NEET syllabus from class XI are also covered.</li>
+							</ul>
 							<!-- <ul class="actions">
 								<li><a href="about.php" class="button big">Learn More</a></li>
 							</ul> -->

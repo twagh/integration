@@ -27,7 +27,7 @@
 					</ul>
 				</li>
 				<li class="<?= $page=='about' ? 'active' : ''; ?>"><a href="/about">About Us</a></li>
-				<li class="<?= $page=='faculty' ? 'active' : ''; ?>"><a href="/faculty">Faculty/ Toppers</a></li>
+				<!-- <li class="<?= $page=='faculty' ? 'active' : ''; ?>"><a href="/faculty">Faculty/ Toppers</a></li> -->
 				<li class="<?= $page=='contact' ? 'active' : ''; ?>"><a href="/contact">Get In Touch</a></li>
 			</ul>
 		</nav>

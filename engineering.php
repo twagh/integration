@@ -27,15 +27,26 @@
 							<header>
 								<h2>Engineering Program</h2>
 							</header>
-							<p>
-								The main goal of this program is to develop strong foundation of concepts and fundamentals, and to sharpen analytical thinking and problem solving skills of a student, which are essential ingredient for success in competitive examination. The program sets the students on a carefully structured path.
-							</p>
-							<p>
-								This program is the best program for all engineering entrance examinations because it enables student to utilize the available time effectively. This enables a relatively comfortable speed of learning and developing problem solving skills. More time means more practice, which means more knowledge and stronger foundation.
-							</p>
-							<p>
-								In addition to Entrance exams, this program also takes care of academic requirements of Board Examination.
-							</p>
+							<ul>
+								<li>The program extensively covers both JEE and Board preparation; and teachers take great care to initiate the child with basic concepts in Physics, Chemistry and Mathematics; thereafter smoothly transiting to a higher and complex level of problem solving; a must have for competing in JEE and exams alike.</li>
+								<li>The program equips the student with a very solid foundation of conceptual knowledge, analytical thinking, logical analysis and problems solving skills; with the confidence to leave no stone unturned for success.</li>
+								<li>On several occasions, surprise tests are conducted to judge the performance level of students, thereby encouraging student to be prepared at all times and dedicated effort throughout the guiding period.</li>
+							</ul>
+							
+							<header>
+								<h3>2 year Regular Program- for Class XI studying/Class X pass students</h3>
+							</header>
+							<ul>
+								<li>The program is targeted towards students who understand the need of an early start to success in school and competitive exams.</li>
+							</ul>
+
+							<header>
+								<h3>1 Year Regular Program for Class XII studying/ Class XI pass students</h3>
+							</header>
+							<ul>
+								<li>The program is meant for the students who have cleared Class XI exams and entered XII-Class; and aspires to clear Engineering Competitive exams like JEE.</li>
+								<li>Besides covering the entire JEE syllabus of Class XII, important topics relevant to the preparation and JEE syllabus from class XI are also covered.</li>
+							</ul>
 							<!-- <ul class="actions">
 								<li><a href="about.php" class="button big">Learn More</a></li>
 							</ul> -->

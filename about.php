@@ -28,14 +28,22 @@
 						<div class="row">
 							<div class="6u 12u$(small)">
 								<h3>Vision</h3>
-								<p>To renovate education in india by setting new benchmarks for quality teaching with Advanced Learning and make it accessible and affordable to every student, empowering with knowledge to realize potential and achieve his dream goal.</p>
+								<p>Generating excellence in academic, exploring creative areas of the dormant self, nurturing talent &amp; aptitude &amp; including perseverance among the students to keep themselves abreast of the latest developments in the field of competitive examinations.</p>
 							</div>
 							<div class="6u$ 12u$(small)">
 								<h3>Mission</h3>
-								<p>To guide, groom and nurture the potential of each student so that they cultivate into knowledgeable individuals, successful in their elected career paths. To evolve in every domain, whether it's our teaching policy, our reach, or our knowledge and thus, every student's learning.</p>
-								<p>To experiment with newer ideas that inspires each one of us every day to improve on what we have already achieved.</p>
+								<p>Generating excellence both in academic and competitive aspects thereby training the youth for most grueling entrance level exams viz. IIT-JEE/ Engg. &amp; Medical entrance.</p>
 							</div>
 							<!-- Break -->
+						</div>
+						<div class="row">
+							<div class="12u 12u$(small)">
+								<h3>Objective</h3>
+								<ul>
+									<li>Striving to provide the best possible education to aspiring Engineering and medical professionals.</li>
+									<li>Creating a comprehensive understanding of the subjects &amp; help developing strategies to meet arduous competitions among the students to match, excel &amp; ameliorate the competition oriented education.</li>
+								</ul>
+							</div>
 						</div>
 					</section>
 				</div>
