@@ -1,9 +1,12 @@
 1. Home
 2. About
 3. Courses
+<<<<<<< HEAD
 	Engineering
 		
 	Mediacal
 	
 
+=======
+>>>>>>> 547e4a677ab6efe2152bb33624f137ea474892e0
 4. Contact

@@ -36,12 +36,20 @@
 			<ul class="contact">
 				<li class="fa-envelope-o"><a href="mailto:latesh644@gmail.com">latesh644@gmail.com</a></li>
 				<li class="fa-phone">(+91) 77159 16926, 77159 16926</li>
+<<<<<<< HEAD
 				<li class="fa-map-marker">101, Integration Tutorial, Shreeji Solitaire, Khadakpada, Kalyan(W)</li>
+=======
+				<li class="fa-map-marker">101, Integration Academy, Shreeji Solitaire, Khadakpada, Kalyan(W)</li>
+>>>>>>> 547e4a677ab6efe2152bb33624f137ea474892e0
 			</ul>
 		</section>
 		<!-- Footer -->
 		<footer id="footer">
+<<<<<<< HEAD
 			<p class="copyright">&copy; Integration Tutorial</p>
+=======
+			<p class="copyright">&copy; Integration Academy</p>
+>>>>>>> 547e4a677ab6efe2152bb33624f137ea474892e0
 		</footer>
 	</div>
 </div>
