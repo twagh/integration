@@ -1,5 +1,6 @@
 <head>
-	<meta name="keywords" content="Integration, Tutorial, Integration Tutorial, JEE, NEET, Foundation, Science, Kalyan, Khadakapda">
+	<meta name="description" content="Integration Tutorial offers various courses such as Foundation course, engineering, medical, and entrance exams" />
+	<meta name="keywords" content="Integration, Tutorial, Integration Tutorial, JEE, NEET, Foundation, Science, Kalyan, Khadakapda, Coaching Classes, Entrance Exams, Engineering, medical" />
 </head>
 <header id="header">
 	<a href="/" class="logo"><strong>Integration Tutorial</strong></a>

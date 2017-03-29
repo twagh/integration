@@ -69,11 +69,7 @@
 							</div>
 							<div class="4u 12u$(medium)">
 								<ul class="contact">
-<<<<<<< HEAD
 									<li class="fa-map-marker">101, Integration Tutorial, Shreeji Solitaire, Khadakpada, Kalyan(W)</li>
-=======
-									<li class="fa-map-marker">101, Integration Academy, Shreeji Solitaire, Khadakpada, Kalyan(W)</li>
->>>>>>> 547e4a677ab6efe2152bb33624f137ea474892e0
 								</ul>
 							</div>
 						</div>
